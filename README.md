@@ -65,7 +65,65 @@ To enhance usability and provide a centralized overview, I created a dedicated "
 Finally, the dashboard was created by inserting and customizing pivot charts based on the corresponding pivot tables. To ensure a user-friendly and interactive experience, slicers and timelines were incorporated. Hyperlinks and connections were also added to relevant icons for seamless navigation.
 
 Below is a snippet of the final dashboard in Excel.
-![]()
+![](Dashboard_page.png)
+## Key Insights
+📊 Total Casualties
+A total of 417,883 casualties were recorded across 2021 and 2022.
+
+📅 Monthly Trends
+
+Casualties were slightly higher in 2021 than 2022.
+
+October and November saw the highest casualty counts.
+
+January and February had the lowest numbers.
+
+🚗 Vehicle Type Impact
+
+Cars were involved in nearly 80% of all casualties.
+
+Other vehicle types (buses, vans, bikes, etc.) contributed minimally.
+
+🩹 Accident Severity
+
+Slight injuries accounted for 84.1% of casualties.
+
+Fatal injuries made up only 1.7%.
+
+🛣️ Road Type Breakdown
+
+Single carriageways had the highest casualties (310,100).
+
+Slip roads reported the fewest (5,100).
+
+🌦️ Road Surface Conditions
+
+Dry roads accounted for 67% of all casualties.
+
+🏙️ Urban vs Rural
+
+Urban areas experienced 61% of the total casualties.
+
+🌞 Lighting Conditions
+
+Daylight hours saw 73% of all recorded casualties.
+## Recommendations
+ - The dashboard’s comparison of casualty trends between the current and previous years on a monthly basis highlights October and November as critical periods. During these high-risk months, the traffic police and other stakeholders must intensify their road safety measures.
+ - Car drivers account for the majority of casualties To address this, targeted awareness campaigns, strict monitoring, and periodic check-ups on safe driving practices are essential.
+ - Enhanced safety measures are necessary on single carriageway roads, and these roads should be upgraded to double lanes wherever feasible.
+By analyzing casualty distribution across different road surface conditions, the dashboard helps identify areas where road maintenance and surface improvements are crucial.
+ - Urban areas require focused interventions to improve road safety, particularly during daytime.
+## Conclusion
+The Road Accident Analytics Dashboard empowers stakeholders with clear, data-driven insights to support informed decision-making. By highlighting critical patterns in accident severity, vehicle involvement, road conditions, and temporal trends, it serves as a powerful tool for policymakers, traffic authorities, and road safety advocates aiming to improve public safety.
+Thank you for taking the time to explore this project.
+💬 Your feedback is highly appreciated!
+Feel free to connect with me for further discussion or collaboration.
+
+
+
+
+
+
 
 
  
