@@ -1,5 +1,5 @@
 # Road-Accident-Dashboard
-![](road_accident_image)
+![](road_acciedent_image.png)
 ## Introduction
 This project is an Excel-based analysis of road accidents using  data for the years 2021 and 2022. Road safety remains a critical global concern, affecting lives and infrastructure. To contribute to awareness and data-driven safety strategies, I developed a Road Accident Analytics Dashboard. This interactive dashboard is designed to provide valuable insights into accident trends, causes, and patterns, helping stakeholders make more informed decisions to improve road safety.
 
