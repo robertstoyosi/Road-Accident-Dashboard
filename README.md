@@ -59,7 +59,16 @@ Number of Fields: 23
 To enhance usability and provide a centralized overview, I created a dedicated "Data Analysis" sheet that consolidates key pivot tables for quick reference. This sheet serves as a valuable resource for users, developers, or clients to explore trends without needing to navigate the full dataset.This structured analysis enables users to quickly identify key patterns, monitor year-over-year trends, and assess factors contributing to higher accident rates.
 
  Below is a preview of the Data Analysis sheet as implemented in Excel
- ![](Analysis_Page)
+ ![](Analysis_page.png)
+
+ ## Visualization:
+Finally, the dashboard was created by inserting and customizing pivot charts based on the corresponding pivot tables. To ensure a user-friendly and interactive experience, slicers and timelines were incorporated. Hyperlinks and connections were also added to relevant icons for seamless navigation.
+
+Below is a snippet of the final dashboard in Excel.
+![]()
+
+
+ 
 
  
 
