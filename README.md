@@ -51,9 +51,9 @@ This project focuses on analyzing road accident data to uncover key patterns and
     
 
 ## Metadata
-File Extension: .xlsx
-Number of Rows: 307,974
-Number of Fields: 23
+ - File Extension: .xlsx
+ - Number of Rows: 307,974
+ - Number of Fields: 23
 
 ## Data Analysis
 To enhance usability and provide a centralized overview, I created a dedicated "Data Analysis" sheet that consolidates key pivot tables for quick reference. This sheet serves as a valuable resource for users, developers, or clients to explore trends without needing to navigate the full dataset.This structured analysis enables users to quickly identify key patterns, monitor year-over-year trends, and assess factors contributing to higher accident rates.
